@@ -1,0 +1,9 @@
+numpy
+transformers
+datasets
+soundfile
+torch
+torchaudio
+sentencepiece
+speechbrain
+librosa
